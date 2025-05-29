@@ -46,6 +46,9 @@ But damn, it's got wings.
 
 #### RFC 3514: The Evil Bit Black IPA
 
+<img src="https://github.com/user-attachments/assets/cc8897bc-3b91-411a-b8a4-1b1934104e3e" width="300"/>
+
+
 This one sets your intrusion detection system on fire.
 Open one in a zero-trust bar and get tased.
 Tastes like **malicious compliance**.
