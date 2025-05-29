@@ -55,6 +55,9 @@ You MAY vomit into the nearest YAML parser.
 
 ---
 
+<img src="https://github.com/user-attachments/assets/f15b52f1-ce7e-4f94-8996-bf9823e235c4" width="300"/>
+
+
 #### RFC 1984: Surveillance Porter
 
 Every bottle includes a QR code to your therapist.
