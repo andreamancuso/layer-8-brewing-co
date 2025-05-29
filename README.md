@@ -4,8 +4,7 @@ Where every pint is a protocol, every hangover a standard, and every brewer slig
 
 ---
 
-![image](https://github.com/user-attachments/assets/4ec574ba-9df0-44b4-9d32-4343cac93814)
-
+<img src="https://github.com/user-attachments/assets/4ec574ba-9df0-44b4-9d32-4343cac93814" width="300"/>
 
 #### RFC 8785: Canonical Pale Ale
 
