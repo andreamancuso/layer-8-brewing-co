@@ -57,6 +57,9 @@ Tastes like **malicious compliance**.
 
 #### RFC 2119: MUST, SHOULD, MAY Tripel
 
+<img src="https://github.com/user-attachments/assets/4c36645f-c0c2-4031-9878-48cede6c5531" width="300"/>
+
+
 You MUST enjoy this.
 You SHOULD finish it.
 You MAY vomit into the nearest YAML parser.
