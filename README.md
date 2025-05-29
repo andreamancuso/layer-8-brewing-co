@@ -14,7 +14,7 @@ If you taste a difference, you're the one out of spec.
 
 ---
 
-<img src="https://github.com/user-attachments/assets/815369f1-3b2c-4494-9a08-95c81df8f06c)" width="300"/>
+<img src="https://github.com/user-attachments/assets/815369f1-3b2c-4494-9a08-95c81df8f06c" width="300"/>
 
 #### RFC 3339: Temporal IPA
 
