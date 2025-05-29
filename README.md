@@ -16,6 +16,8 @@ If you taste a difference, you're the one out of spec.
 
 #### RFC 5246: TLS 1.2 Brown Ale
 
+<img src="https://github.com/user-attachments/assets/3a30e3ce-514f-4417-acc2-04bce38df70a" width="300"/>
+
 A legacy ale. Still good. Still drunk by banks.
 Warning: deprecated by RFC 8446, but god help you if your bartender updated their menu.
 
