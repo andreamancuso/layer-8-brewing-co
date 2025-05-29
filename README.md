@@ -91,6 +91,8 @@ You just can't explain what it did to your internal state.
 
 #### RFC 793: CP Hazy Double NEIPA
 
+<img src="https://github.com/user-attachments/assets/74859bb0-1e47-4fd1-a0ba-f583a676af33" width="300"/>
+
 Connects slowly. Refuses to die.
 Sends SYNs in waves and ACKs your feelings.
 Best enjoyed after a three-way handshake with yourself.
