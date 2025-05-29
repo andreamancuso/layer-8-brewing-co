@@ -81,6 +81,8 @@ Your first sip is already on Pastebin.
 
 #### RFC 3008: Debug Lager
 
+<img src="https://github.com/user-attachments/assets/43616df8-d27d-4a0f-9319-4f17683f2849" width="300"/>
+
 It's fine.
 You can drink it.
 You just can't explain what it did to your internal state.
