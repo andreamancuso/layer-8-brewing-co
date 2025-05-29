@@ -25,6 +25,8 @@ Warning: deprecated by RFC 8446, but god help you if your bartender updated thei
 
 #### RFC 2324: I'm a Teapot Imperial Saison
 
+<img src="https://github.com/user-attachments/assets/ddd968a2-dad1-460f-b33a-d3a6517c8f2f" width="300"/>
+
 10.418% ABV.
 Doesn't brew. Doesn't serve.
 Exists solely to make HTTP libraries piss themselves.
