@@ -33,6 +33,9 @@ Exists solely to make HTTP libraries piss themselves.
 
 #### RFC 1149: Avian Carriers Kölsch
 
+<img src="https://github.com/user-attachments/assets/fbc809b5-33a1-459b-8de0-d62eb084739e" width="300"/>
+
+
 Every keg delivered by *homing pigeon*.
 High latency. Low throughput.
 But damn, it's got wings.
