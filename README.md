@@ -1,6 +1,6 @@
 # Layer 8 Brewing Co.
 
-Where every pint is a protocol, every hangover a standard, and every brewer slightly insane.
+Canonicalized. Fermented. Immutable.
 
 ---
 
