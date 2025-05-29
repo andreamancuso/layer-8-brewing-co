@@ -14,6 +14,22 @@ If you taste a difference, you're the one out of spec.
 
 ---
 
+<img src="https://github.com/user-attachments/assets/815369f1-3b2c-4494-9a08-95c81df8f06c)" width="300"/>
+
+#### RFC 3339: Temporal IPA
+
+For those who live in UTC and die in milliseconds.
+
+A bright, assertive IPA brewed with the precision of a timestamp and the bitterness of missed deadlines. Hops burst forward like a T between date and time, while citrus notes tick in at predictable intervals. No ambiguity. No daylight saving. Just a crisp, well-structured brew that always ends with a Z.
+
+Best enjoyed while parsing ISO 8601 strings, debugging time zone drift, or realizing your scheduled job ran yesterday.
+
+ABV: 6.0%
+Format: RFC3339-compliant
+WARNING: May cause irreversible awareness of how broken datetime handling truly is.
+
+---
+
 #### RFC 5246: TLS 1.2 Brown Ale
 
 <img src="https://github.com/user-attachments/assets/3a30e3ce-514f-4417-acc2-04bce38df70a" width="300"/>
